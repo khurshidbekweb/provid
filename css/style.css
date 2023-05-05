@@ -44,4 +44,88 @@ body{
     color: white;
 }
 /*======================== Navbat end ===========================*/
+/* ====================Section hero start  ====================*/
+.hero__inner{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.main_title{
+    width: 616px;
+font-weight: 400;
+font-size: 64px;
+line-height: 70px;
+letter-spacing: 1px;
+color: #363B3D;
+margin-bottom: 25px;
+}
+.hero_text{
+    width: 599px;
+    font-weight: 400;
+font-size: 20px;
+line-height: 34px;
+margin-bottom: 25px;    
+letter-spacing: 0.05px;
+color: #636769;
+}
+.more_info{
+    width: 290px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 35px;
+}
+.link{    
+font-size: 18px;
+line-height: 30px;
+letter-spacing: 0.5px;
+text-transform: capitalize;
+color: #6157AB;
+padding: 10px 13px;
+text-decoration: none;
 
+}
+
+.link:hover{
+    color: white;
+    font-weight: 400;
+    background-color: #6157AB;
+    border-radius: 15px;
+    text-decoration: lightcyan;
+}
+.hero__logo{
+    margin-top: 20px;
+}
+.logo_title{
+    padding: 20px 10px;
+    font-size: 11px;
+line-height: 16px;
+letter-spacing: 2px;
+text-transform: uppercase;
+color: #96979A;
+}
+.logo_list{
+    width: 590px;
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.hero_img{
+    margin-top: 50px;   
+    width: 500px;
+}
+
+/* ====================Section hero end  ====================*/
+
+
+/* ====================Section hero start  ====================*/
+/* ====================Section hero end  ====================*/
+/* ====================Section hero start  ====================*/
+/* ====================Section hero end  ====================*/
+/* ====================Section hero start  ====================*/
+/* ====================Section hero end  ====================*/
+/* ====================Section hero start  ====================*/
+/* ====================Section hero end  ====================*/
+/* ====================Section hero start  ====================*/
+/* ====================Section hero end  ====================*/
